@@ -37,12 +37,12 @@ ogpk https://example.com
 
 To display the `og:image` in the terminal (requires `timg`):
 ```bash
-ogpk [URL] --p
+ogpk --p [URL] 
 ```
 
 Output data as JSON:
 ```bash
-ogpk [URL] --json
+ogpk --json [URL] 
 ```
 
 ### Building from source
